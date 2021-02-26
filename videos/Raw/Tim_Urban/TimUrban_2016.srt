@@ -1,0 +1,1260 @@
+﻿1
+00:00:12,465 --> 00:00:13,835
+So in college,
+
+2
+00:00:15,169 --> 00:00:16,733
+I was a government major,
+
+3
+00:00:16,757 --> 00:00:19,219
+which means I had to write a lot of papers.
+
+4
+00:00:19,243 --> 00:00:21,291
+Now, when a normal student writes a paper,
+
+5
+00:00:21,315 --> 00:00:23,688
+they might spread the work out a little like this.
+
+6
+00:00:23,712 --> 00:00:24,863
+So, you know --
+
+7
+00:00:24,887 --> 00:00:26,544
+(Laughter)
+
+8
+00:00:26,568 --> 00:00:28,395
+you get started maybe a little slowly,
+
+9
+00:00:28,419 --> 00:00:30,387
+but you get enough done in the first week
+
+10
+00:00:30,411 --> 00:00:32,242
+that, with some heavier days later on,
+
+11
+00:00:32,266 --> 00:00:34,423
+everything gets done, things stay civil.
+
+12
+00:00:34,447 --> 00:00:35,649
+(Laughter)
+
+13
+00:00:35,673 --> 00:00:37,944
+And I would want to do that like that.
+
+14
+00:00:37,968 --> 00:00:39,162
+That would be the plan.
+
+15
+00:00:39,186 --> 00:00:41,676
+I would have it all ready to go,
+
+16
+00:00:41,700 --> 00:00:44,194
+but then, actually, the paper would come along,
+
+17
+00:00:44,218 --> 00:00:46,159
+and then I would kind of do this.
+
+18
+00:00:46,183 --> 00:00:48,553
+(Laughter)
+
+19
+00:00:48,577 --> 00:00:50,720
+And that would happen every single paper.
+
+20
+00:00:51,458 --> 00:00:55,340
+But then came my 90-page senior thesis,
+
+21
+00:00:55,364 --> 00:00:57,651
+a paper you're supposed to spend a year on.
+
+22
+00:00:57,675 --> 00:01:01,294
+And I knew for a paper like that, my normal work flow was not an option.
+
+23
+00:01:01,318 --> 00:01:02,719
+It was way too big a project.
+
+24
+00:01:02,743 --> 00:01:03,896
+So I planned things out,
+
+25
+00:01:03,920 --> 00:01:07,125
+and I decided I kind of had to go something like this.
+
+26
+00:01:07,601 --> 00:01:09,053
+This is how the year would go.
+
+27
+00:01:09,077 --> 00:01:11,044
+So I'd start off light,
+
+28
+00:01:11,068 --> 00:01:13,386
+and I'd bump it up in the middle months,
+
+29
+00:01:13,410 --> 00:01:16,036
+and then at the end, I would kick it up into high gear
+
+30
+00:01:16,060 --> 00:01:17,499
+just like a little staircase.
+
+31
+00:01:17,523 --> 00:01:19,585
+How hard could it be to walk up the stairs?
+
+32
+00:01:20,053 --> 00:01:21,372
+No big deal, right?
+
+33
+00:01:22,910 --> 00:01:24,720
+But then, the funniest thing happened.
+
+34
+00:01:24,744 --> 00:01:26,055
+Those first few months?
+
+35
+00:01:26,611 --> 00:01:27,778
+They came and went,
+
+36
+00:01:27,802 --> 00:01:29,387
+and I couldn't quite do stuff.
+
+37
+00:01:29,411 --> 00:01:31,260
+So we had an awesome new revised plan.
+
+38
+00:01:31,284 --> 00:01:32,451
+(Laughter)
+
+39
+00:01:32,475 --> 00:01:33,634
+And then --
+
+40
+00:01:33,658 --> 00:01:35,540
+(Laughter)
+
+41
+00:01:35,564 --> 00:01:38,348
+But then those middle months actually went by,
+
+42
+00:01:38,372 --> 00:01:40,554
+and I didn't really write words,
+
+43
+00:01:40,578 --> 00:01:42,413
+and so we were here.
+
+44
+00:01:43,320 --> 00:01:45,896
+And then two months turned into one month,
+
+45
+00:01:45,920 --> 00:01:47,545
+which turned into two weeks.
+
+46
+00:01:47,569 --> 00:01:48,878
+And one day I woke up
+
+47
+00:01:49,544 --> 00:01:52,163
+with three days until the deadline,
+
+48
+00:01:53,322 --> 00:01:55,253
+still not having written a word,
+
+49
+00:01:55,277 --> 00:01:57,336
+and so I did the only thing I could:
+
+50
+00:01:57,360 --> 00:01:59,967
+I wrote 90 pages over 72 hours,
+
+51
+00:01:59,991 --> 00:02:02,267
+pulling not one but two all-nighters --
+
+52
+00:02:02,291 --> 00:02:04,860
+humans are not supposed to pull two all-nighters --
+
+53
+00:02:06,193 --> 00:02:08,186
+sprinted across campus,
+
+54
+00:02:08,210 --> 00:02:09,696
+dove in slow motion,
+
+55
+00:02:09,720 --> 00:02:11,776
+and got it in just at the deadline.
+
+56
+00:02:11,800 --> 00:02:13,824
+I thought that was the end of everything.
+
+57
+00:02:13,848 --> 00:02:15,407
+But a week later I get a call,
+
+58
+00:02:15,431 --> 00:02:16,917
+and it's the school.
+
+59
+00:02:17,577 --> 00:02:19,216
+And they say, "Is this Tim Urban?"
+
+60
+00:02:19,240 --> 00:02:20,708
+And I say, "Yeah."
+
+61
+00:02:20,732 --> 00:02:23,072
+And they say, "We need to talk about your thesis."
+
+62
+00:02:23,096 --> 00:02:24,351
+And I say, "OK."
+
+63
+00:02:25,288 --> 00:02:26,510
+And they say,
+
+64
+00:02:27,050 --> 00:02:28,946
+"It's the best one we've ever seen."
+
+65
+00:02:28,970 --> 00:02:30,675
+(Laughter)
+
+66
+00:02:31,834 --> 00:02:34,524
+(Applause)
+
+67
+00:02:36,765 --> 00:02:38,067
+That did not happen.
+
+68
+00:02:38,091 --> 00:02:40,229
+(Laughter)
+
+69
+00:02:40,253 --> 00:02:42,876
+It was a very, very bad thesis.
+
+70
+00:02:42,900 --> 00:02:45,174
+(Laughter)
+
+71
+00:02:45,198 --> 00:02:49,298
+I just wanted to enjoy that one moment when all of you thought,
+
+72
+00:02:49,322 --> 00:02:51,227
+"This guy is amazing!"
+
+73
+00:02:51,251 --> 00:02:52,599
+(Laughter)
+
+74
+00:02:52,623 --> 00:02:54,290
+No, no, it was very, very bad.
+
+75
+00:02:55,163 --> 00:02:58,571
+Anyway, today I'm a writer-blogger guy.
+
+76
+00:02:58,595 --> 00:03:00,338
+I write the blog Wait But Why.
+
+77
+00:03:00,362 --> 00:03:04,098
+And a couple of years ago, I decided to write about procrastination.
+
+78
+00:03:04,122 --> 00:03:07,406
+My behavior has always perplexed the non-procrastinators around me,
+
+79
+00:03:07,430 --> 00:03:11,118
+and I wanted to explain to the non-procrastinators of the world
+
+80
+00:03:11,142 --> 00:03:13,249
+what goes on in the heads of procrastinators,
+
+81
+00:03:13,273 --> 00:03:14,713
+and why we are the way we are.
+
+82
+00:03:14,737 --> 00:03:15,893
+Now, I had a hypothesis
+
+83
+00:03:15,917 --> 00:03:18,772
+that the brains of procrastinators were actually different
+
+84
+00:03:18,796 --> 00:03:20,753
+than the brains of other people.
+
+85
+00:03:21,518 --> 00:03:23,709
+And to test this, I found an MRI lab
+
+86
+00:03:23,733 --> 00:03:26,165
+that actually let me scan both my brain
+
+87
+00:03:26,189 --> 00:03:28,844
+and the brain of a proven non-procrastinator,
+
+88
+00:03:28,868 --> 00:03:30,303
+so I could compare them.
+
+89
+00:03:30,327 --> 00:03:32,528
+I actually brought them here to show you today.
+
+90
+00:03:32,552 --> 00:03:36,089
+I want you to take a look carefully to see if you can notice a difference.
+
+91
+00:03:36,113 --> 00:03:38,427
+I know that if you're not a trained brain expert,
+
+92
+00:03:38,451 --> 00:03:40,714
+it's not that obvious, but just take a look, OK?
+
+93
+00:03:40,738 --> 00:03:42,866
+So here's the brain of a non-procrastinator.
+
+94
+00:03:43,655 --> 00:03:45,929
+(Laughter)
+
+95
+00:03:45,953 --> 00:03:47,104
+Now ...
+
+96
+00:03:48,145 --> 00:03:49,459
+here's my brain.
+
+97
+00:03:50,100 --> 00:03:52,826
+(Laughter)
+
+98
+00:03:55,533 --> 00:03:57,097
+There is a difference.
+
+99
+00:03:57,724 --> 00:04:00,112
+Both brains have a Rational Decision-Maker in them,
+
+100
+00:04:00,136 --> 00:04:01,788
+but the procrastinator's brain
+
+101
+00:04:01,812 --> 00:04:04,798
+also has an Instant Gratification Monkey.
+
+102
+00:04:04,822 --> 00:04:07,124
+Now, what does this mean for the procrastinator?
+
+103
+00:04:07,148 --> 00:04:09,589
+Well, it means everything's fine until this happens.
+
+104
+00:04:09,613 --> 00:04:12,235
+[This is a perfect time to get some work done.] [Nope!]
+
+105
+00:04:12,259 --> 00:04:15,192
+So the Rational Decision-Maker will make the rational decision
+
+106
+00:04:15,216 --> 00:04:17,112
+to do something productive,
+
+107
+00:04:17,136 --> 00:04:19,086
+but the Monkey doesn't like that plan,
+
+108
+00:04:19,110 --> 00:04:20,618
+so he actually takes the wheel,
+
+109
+00:04:20,642 --> 00:04:23,523
+and he says, "Actually, let's read the entire Wikipedia page
+
+110
+00:04:23,547 --> 00:04:25,683
+of the Nancy Kerrigan/ Tonya Harding scandal,
+
+111
+00:04:25,707 --> 00:04:27,838
+because I just remembered that that happened.
+
+112
+00:04:27,862 --> 00:04:28,878
+(Laughter)
+
+113
+00:04:28,902 --> 00:04:30,060
+Then --
+
+114
+00:04:30,084 --> 00:04:31,347
+(Laughter)
+
+115
+00:04:31,371 --> 00:04:33,409
+Then we're going to go over to the fridge,
+
+116
+00:04:33,433 --> 00:04:36,299
+to see if there's anything new in there since 10 minutes ago.
+
+117
+00:04:36,323 --> 00:04:38,961
+After that, we're going to go on a YouTube spiral
+
+118
+00:04:38,985 --> 00:04:42,235
+that starts with videos of Richard Feynman talking about magnets
+
+119
+00:04:42,259 --> 00:04:44,975
+and ends much, much later with us watching interviews
+
+120
+00:04:44,999 --> 00:04:46,879
+with Justin Bieber's mom.
+
+121
+00:04:46,903 --> 00:04:49,091
+(Laughter)
+
+122
+00:04:49,115 --> 00:04:50,878
+"All of that's going to take a while,
+
+123
+00:04:50,902 --> 00:04:54,404
+so we're not going to really have room on the schedule for any work today.
+
+124
+00:04:54,428 --> 00:04:55,591
+Sorry!"
+
+125
+00:04:55,615 --> 00:04:56,780
+(Sigh)
+
+126
+00:04:58,145 --> 00:05:01,514
+Now, what is going on here?
+
+127
+00:05:03,301 --> 00:05:05,992
+The Instant Gratification Monkey does not seem like a guy
+
+128
+00:05:06,016 --> 00:05:07,270
+you want behind the wheel.
+
+129
+00:05:07,294 --> 00:05:09,239
+He lives entirely in the present moment.
+
+130
+00:05:09,263 --> 00:05:12,091
+He has no memory of the past, no knowledge of the future,
+
+131
+00:05:12,115 --> 00:05:13,812
+and he only cares about two things:
+
+132
+00:05:13,836 --> 00:05:15,519
+easy and fun.
+
+133
+00:05:16,158 --> 00:05:19,250
+Now, in the animal world, that works fine.
+
+134
+00:05:19,274 --> 00:05:20,482
+If you're a dog
+
+135
+00:05:20,506 --> 00:05:24,077
+and you spend your whole life doing nothing other than easy and fun things,
+
+136
+00:05:24,101 --> 00:05:25,266
+you're a huge success!
+
+137
+00:05:25,290 --> 00:05:27,201
+(Laughter)
+
+138
+00:05:27,225 --> 00:05:28,511
+And to the Monkey,
+
+139
+00:05:29,789 --> 00:05:31,883
+humans are just another animal species.
+
+140
+00:05:31,907 --> 00:05:36,413
+You have to keep well-slept, well-fed and propagating into the next generation,
+
+141
+00:05:36,437 --> 00:05:38,723
+which in tribal times might have worked OK.
+
+142
+00:05:38,747 --> 00:05:41,597
+But, if you haven't noticed, now we're not in tribal times.
+
+143
+00:05:41,621 --> 00:05:45,754
+We're in an advanced civilization, and the Monkey does not know what that is.
+
+144
+00:05:45,778 --> 00:05:48,059
+Which is why we have another guy in our brain,
+
+145
+00:05:48,083 --> 00:05:50,448
+the Rational Decision-Maker,
+
+146
+00:05:50,472 --> 00:05:53,499
+who gives us the ability to do things no other animal can do.
+
+147
+00:05:53,523 --> 00:05:55,444
+We can visualize the future.
+
+148
+00:05:55,468 --> 00:05:57,220
+We can see the big picture.
+
+149
+00:05:57,244 --> 00:05:58,594
+We can make long-term plans.
+
+150
+00:05:58,618 --> 00:06:01,101
+And he wants to take all of that into account.
+
+151
+00:06:01,958 --> 00:06:03,649
+And he wants to just have us do
+
+152
+00:06:03,673 --> 00:06:06,621
+whatever makes sense to be doing right now.
+
+153
+00:06:06,645 --> 00:06:08,034
+Now, sometimes it makes sense
+
+154
+00:06:08,058 --> 00:06:10,087
+to be doing things that are easy and fun,
+
+155
+00:06:10,111 --> 00:06:12,262
+like when you're having dinner or going to bed
+
+156
+00:06:12,286 --> 00:06:14,114
+or enjoying well-earned leisure time.
+
+157
+00:06:14,138 --> 00:06:15,588
+That's why there's an overlap.
+
+158
+00:06:15,612 --> 00:06:17,356
+Sometimes they agree.
+
+159
+00:06:17,380 --> 00:06:20,202
+But other times, it makes much more sense
+
+160
+00:06:20,226 --> 00:06:23,828
+to be doing things that are harder and less pleasant,
+
+161
+00:06:23,852 --> 00:06:25,392
+for the sake of the big picture.
+
+162
+00:06:25,416 --> 00:06:27,305
+And that's when we have a conflict.
+
+163
+00:06:27,837 --> 00:06:29,152
+And for the procrastinator,
+
+164
+00:06:29,176 --> 00:06:31,685
+that conflict tends to end a certain way every time,
+
+165
+00:06:31,709 --> 00:06:35,429
+leaving him spending a lot of time in this orange zone,
+
+166
+00:06:35,453 --> 00:06:39,780
+an easy and fun place that's entirely out of the Makes Sense circle.
+
+167
+00:06:39,804 --> 00:06:42,083
+I call it the Dark Playground.
+
+168
+00:06:42,107 --> 00:06:43,731
+(Laughter)
+
+169
+00:06:43,755 --> 00:06:46,883
+Now, the Dark Playground is a place
+
+170
+00:06:46,907 --> 00:06:50,099
+that all of you procrastinators out there know very well.
+
+171
+00:06:50,712 --> 00:06:52,516
+It's where leisure activities happen
+
+172
+00:06:52,540 --> 00:06:55,850
+at times when leisure activities are not supposed to be happening.
+
+173
+00:06:56,238 --> 00:06:58,128
+The fun you have in the Dark Playground
+
+174
+00:06:58,152 --> 00:07:00,635
+isn't actually fun, because it's completely unearned,
+
+175
+00:07:00,659 --> 00:07:03,874
+and the air is filled with guilt, dread, anxiety, self-hatred --
+
+176
+00:07:03,898 --> 00:07:06,016
+all of those good procrastinator feelings.
+
+177
+00:07:06,523 --> 00:07:09,999
+And the question is, in this situation, with the Monkey behind the wheel,
+
+178
+00:07:10,023 --> 00:07:13,616
+how does the procrastinator ever get himself over here to this blue zone,
+
+179
+00:07:13,640 --> 00:07:16,921
+a less pleasant place, but where really important things happen?
+
+180
+00:07:16,945 --> 00:07:21,982
+Well, turns out the procrastinator has a guardian angel,
+
+181
+00:07:22,006 --> 00:07:25,214
+someone who's always looking down on him and watching over him
+
+182
+00:07:25,238 --> 00:07:26,668
+in his darkest moments --
+
+183
+00:07:26,692 --> 00:07:28,787
+someone called the Panic Monster.
+
+184
+00:07:28,811 --> 00:07:31,889
+(Laughter)
+
+185
+00:07:34,206 --> 00:07:39,066
+Now, the Panic Monster is dormant most of the time,
+
+186
+00:07:39,090 --> 00:07:42,992
+but he suddenly wakes up anytime a deadline gets too close
+
+187
+00:07:43,016 --> 00:07:45,061
+or there's danger of public embarrassment,
+
+188
+00:07:45,085 --> 00:07:47,596
+a career disaster or some other scary consequence.
+
+189
+00:07:47,620 --> 00:07:51,792
+And importantly, he's the only thing the Monkey is terrified of.
+
+190
+00:07:51,816 --> 00:07:56,394
+Now, he became very relevant in my life pretty recently,
+
+191
+00:07:56,418 --> 00:07:59,664
+because the people of TED reached out to me about six months ago
+
+192
+00:07:59,688 --> 00:08:01,709
+and invited me to do a TED Talk.
+
+193
+00:08:01,733 --> 00:08:04,161
+(Laughter)
+
+194
+00:08:06,878 --> 00:08:08,785
+Now, of course, I said yes.
+
+195
+00:08:08,809 --> 00:08:12,614
+It's always been a dream of mine to have done a TED Talk in the past.
+
+196
+00:08:12,638 --> 00:08:16,610
+(Laughter)
+
+197
+00:08:16,634 --> 00:08:20,331
+(Applause)
+
+198
+00:08:24,023 --> 00:08:25,992
+But in the middle of all this excitement,
+
+199
+00:08:26,016 --> 00:08:29,317
+the Rational Decision-Maker seemed to have something else on his mind.
+
+200
+00:08:29,341 --> 00:08:31,889
+He was saying, "Are we clear on what we just accepted?
+
+201
+00:08:31,913 --> 00:08:35,162
+Do we get what's going to be now happening one day in the future?
+
+202
+00:08:35,186 --> 00:08:37,453
+We need to sit down and work on this right now."
+
+203
+00:08:37,477 --> 00:08:40,742
+And the Monkey said, "Totally agree, but let's just open Google Earth
+
+204
+00:08:40,766 --> 00:08:43,926
+and zoom in to the bottom of India, like 200 feet above the ground,
+
+205
+00:08:43,950 --> 00:08:47,571
+and scroll up for two and a half hours til we get to the top of the country,
+
+206
+00:08:47,595 --> 00:08:49,573
+so we can get a better feel for India."
+
+207
+00:08:49,597 --> 00:08:54,032
+(Laughter)
+
+208
+00:08:54,969 --> 00:08:56,454
+So that's what we did that day.
+
+209
+00:08:56,478 --> 00:08:59,148
+(Laughter)
+
+210
+00:09:00,424 --> 00:09:04,320
+As six months turned into four and then two and then one,
+
+211
+00:09:04,344 --> 00:09:07,439
+the people of TED decided to release the speakers.
+
+212
+00:09:07,463 --> 00:09:10,075
+And I opened up the website, and there was my face
+
+213
+00:09:10,099 --> 00:09:11,455
+staring right back at me.
+
+214
+00:09:11,479 --> 00:09:13,079
+And guess who woke up?
+
+215
+00:09:13,103 --> 00:09:16,218
+(Laughter)
+
+216
+00:09:17,250 --> 00:09:19,700
+So the Panic Monster starts losing his mind,
+
+217
+00:09:19,724 --> 00:09:22,470
+and a few seconds later, the whole system's in mayhem.
+
+218
+00:09:22,494 --> 00:09:24,940
+(Laughter)
+
+219
+00:09:27,331 --> 00:09:30,432
+And the Monkey -- remember, he's terrified of the Panic Monster --
+
+220
+00:09:30,456 --> 00:09:31,614
+boom, he's up the tree!
+
+221
+00:09:31,638 --> 00:09:32,789
+And finally,
+
+222
+00:09:32,813 --> 00:09:35,409
+finally, the Rational Decision-Maker can take the wheel
+
+223
+00:09:35,433 --> 00:09:37,151
+and I can start working on the talk.
+
+224
+00:09:37,175 --> 00:09:39,463
+Now, the Panic Monster explains
+
+225
+00:09:39,487 --> 00:09:42,968
+all kinds of pretty insane procrastinator behavior,
+
+226
+00:09:42,992 --> 00:09:45,326
+like how someone like me could spend two weeks
+
+227
+00:09:45,350 --> 00:09:49,194
+unable to start the opening sentence of a paper,
+
+228
+00:09:49,218 --> 00:09:51,989
+and then miraculously find the unbelievable work ethic
+
+229
+00:09:52,013 --> 00:09:55,109
+to stay up all night and write eight pages.
+
+230
+00:09:56,205 --> 00:09:59,187
+And this entire situation, with the three characters --
+
+231
+00:09:59,211 --> 00:10:01,231
+this is the procrastinator's system.
+
+232
+00:10:01,916 --> 00:10:05,341
+It's not pretty, but in the end, it works.
+
+233
+00:10:05,365 --> 00:10:09,427
+This is what I decided to write about on the blog a couple of years ago.
+
+234
+00:10:09,451 --> 00:10:12,422
+When I did, I was amazed by the response.
+
+235
+00:10:12,446 --> 00:10:14,599
+Literally thousands of emails came in,
+
+236
+00:10:14,623 --> 00:10:17,400
+from all different kinds of people from all over the world,
+
+237
+00:10:17,424 --> 00:10:19,162
+doing all different kinds of things.
+
+238
+00:10:19,186 --> 00:10:22,152
+These are people who were nurses, bankers, painters, engineers
+
+239
+00:10:22,176 --> 00:10:24,498
+and lots and lots of PhD students.
+
+240
+00:10:24,522 --> 00:10:26,523
+(Laughter)
+
+241
+00:10:26,547 --> 00:10:28,835
+And they were all writing, saying the same thing:
+
+242
+00:10:28,859 --> 00:10:30,811
+"I have this problem too."
+
+243
+00:10:30,835 --> 00:10:34,664
+But what struck me was the contrast between the light tone of the post
+
+244
+00:10:34,688 --> 00:10:36,783
+and the heaviness of these emails.
+
+245
+00:10:36,807 --> 00:10:39,890
+These people were writing with intense frustration
+
+246
+00:10:39,914 --> 00:10:42,676
+about what procrastination had done to their lives,
+
+247
+00:10:42,700 --> 00:10:44,730
+about what this Monkey had done to them.
+
+248
+00:10:46,722 --> 00:10:49,688
+And I thought about this, and I said,
+
+249
+00:10:49,712 --> 00:10:52,824
+well, if the procrastinator's system works, then what's going on?
+
+250
+00:10:52,848 --> 00:10:55,334
+Why are all of these people in such a dark place?
+
+251
+00:10:55,358 --> 00:10:58,656
+Well, it turns out that there's two kinds of procrastination.
+
+252
+00:10:59,807 --> 00:11:02,641
+Everything I've talked about today, the examples I've given,
+
+253
+00:11:02,665 --> 00:11:03,816
+they all have deadlines.
+
+254
+00:11:03,840 --> 00:11:05,138
+And when there's deadlines,
+
+255
+00:11:05,162 --> 00:11:08,087
+the effects of procrastination are contained to the short term
+
+256
+00:11:08,111 --> 00:11:10,024
+because the Panic Monster gets involved.
+
+257
+00:11:10,048 --> 00:11:12,102
+But there's a second kind of procrastination
+
+258
+00:11:12,126 --> 00:11:14,613
+that happens in situations when there is no deadline.
+
+259
+00:11:14,637 --> 00:11:17,327
+So if you wanted a career where you're a self-starter --
+
+260
+00:11:17,351 --> 00:11:19,764
+something in the arts, something entrepreneurial --
+
+261
+00:11:19,788 --> 00:11:23,313
+there's no deadlines on those things at first, because nothing's happening,
+
+262
+00:11:23,337 --> 00:11:25,581
+not until you've gone out and done the hard work
+
+263
+00:11:25,605 --> 00:11:27,231
+to get momentum, get things going.
+
+264
+00:11:27,255 --> 00:11:30,333
+There's also all kinds of important things outside of your career
+
+265
+00:11:30,357 --> 00:11:31,962
+that don't involve any deadlines,
+
+266
+00:11:31,986 --> 00:11:35,251
+like seeing your family or exercising and taking care of your health,
+
+267
+00:11:35,275 --> 00:11:36,679
+working on your relationship
+
+268
+00:11:36,703 --> 00:11:39,384
+or getting out of a relationship that isn't working.
+
+269
+00:11:39,408 --> 00:11:44,556
+Now if the procrastinator's only mechanism of doing these hard things
+
+270
+00:11:44,580 --> 00:11:46,465
+is the Panic Monster, that's a problem,
+
+271
+00:11:46,489 --> 00:11:49,289
+because in all of these non-deadline situations,
+
+272
+00:11:49,313 --> 00:11:50,941
+the Panic Monster doesn't show up.
+
+273
+00:11:50,965 --> 00:11:52,417
+He has nothing to wake up for,
+
+274
+00:11:52,441 --> 00:11:55,139
+so the effects of procrastination, they're not contained;
+
+275
+00:11:55,163 --> 00:11:56,903
+they just extend outward forever.
+
+276
+00:11:57,773 --> 00:12:00,513
+And it's this long-term kind of procrastination
+
+277
+00:12:00,537 --> 00:12:03,618
+that's much less visible and much less talked about
+
+278
+00:12:03,642 --> 00:12:06,543
+than the funnier, short-term deadline-based kind.
+
+279
+00:12:06,567 --> 00:12:09,670
+It's usually suffered quietly and privately.
+
+280
+00:12:10,636 --> 00:12:11,790
+And it can be the source
+
+281
+00:12:11,814 --> 00:12:15,549
+of a huge amount of long-term unhappiness, and regrets.
+
+282
+00:12:16,396 --> 00:12:19,268
+And I thought, that's why those people are emailing,
+
+283
+00:12:19,292 --> 00:12:21,794
+and that's why they're in such a bad place.
+
+284
+00:12:21,818 --> 00:12:24,562
+It's not that they're cramming for some project.
+
+285
+00:12:24,586 --> 00:12:28,007
+It's that long-term procrastination has made them feel like a spectator,
+
+286
+00:12:28,031 --> 00:12:30,070
+at times, in their own lives.
+
+287
+00:12:30,414 --> 00:12:33,396
+The frustration is not that they couldn't achieve their dreams;
+
+288
+00:12:33,420 --> 00:12:36,509
+it's that they weren't even able to start chasing them.
+
+289
+00:12:36,533 --> 00:12:40,716
+So I read these emails and I had a little bit of an epiphany --
+
+290
+00:12:42,002 --> 00:12:45,402
+that I don't think non-procrastinators exist.
+
+291
+00:12:45,799 --> 00:12:49,035
+That's right -- I think all of you are procrastinators.
+
+292
+00:12:49,718 --> 00:12:51,632
+Now, you might not all be a mess,
+
+293
+00:12:51,656 --> 00:12:53,006
+like some of us,
+
+294
+00:12:53,030 --> 00:12:54,559
+(Laughter)
+
+295
+00:12:54,583 --> 00:12:57,899
+and some of you may have a healthy relationship with deadlines,
+
+296
+00:12:57,923 --> 00:13:00,447
+but remember: the Monkey's sneakiest trick
+
+297
+00:13:00,471 --> 00:13:02,311
+is when the deadlines aren't there.
+
+298
+00:13:03,069 --> 00:13:05,101
+Now, I want to show you one last thing.
+
+299
+00:13:05,125 --> 00:13:07,498
+I call this a Life Calendar.
+
+300
+00:13:08,172 --> 00:13:12,451
+That's one box for every week of a 90-year life.
+
+301
+00:13:13,165 --> 00:13:14,754
+That's not that many boxes,
+
+302
+00:13:14,778 --> 00:13:17,752
+especially since we've already used a bunch of those.
+
+303
+00:13:18,427 --> 00:13:23,559
+So I think we need to all take a long, hard look at that calendar.
+
+304
+00:13:24,797 --> 00:13:27,810
+We need to think about what we're really procrastinating on,
+
+305
+00:13:27,834 --> 00:13:31,199
+because everyone is procrastinating on something in life.
+
+306
+00:13:32,602 --> 00:13:35,632
+We need to stay aware of the Instant Gratification Monkey.
+
+307
+00:13:37,275 --> 00:13:39,767
+That's a job for all of us.
+
+308
+00:13:40,489 --> 00:13:42,789
+And because there's not that many boxes on there,
+
+309
+00:13:42,813 --> 00:13:45,103
+it's a job that should probably start today.
+
+310
+00:13:45,127 --> 00:13:48,127
+Well, maybe not today, but ...
+
+311
+00:13:48,151 --> 00:13:49,792
+(Laughter)
+
+312
+00:13:49,816 --> 00:13:50,966
+You know.
+
+313
+00:13:51,396 --> 00:13:52,546
+Sometime soon.
+
+314
+00:13:53,213 --> 00:13:54,422
+Thank you.
+
+315
+00:13:54,446 --> 00:14:02,444
+(Applause)
+
