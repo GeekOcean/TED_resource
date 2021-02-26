@@ -1,0 +1,1256 @@
+﻿1
+00:00:11,820 --> 00:00:13,820
+I'm delighted to be here.
+
+2
+00:00:13,820 --> 00:00:16,820
+I'm honored by the invitation, and thanks.
+
+3
+00:00:16,820 --> 00:00:19,820
+I would love to talk about stuff that I'm interested in,
+
+4
+00:00:19,820 --> 00:00:21,820
+but unfortunately, I suspect that what I'm interested in
+
+5
+00:00:21,820 --> 00:00:24,820
+won't interest many other people.
+
+6
+00:00:24,820 --> 00:00:26,820
+First off, my badge says I'm an astronomer.
+
+7
+00:00:26,820 --> 00:00:28,820
+I would love to talk about my astronomy,
+
+8
+00:00:28,820 --> 00:00:31,820
+but I suspect that the number of people who are interested in radiative transfer
+
+9
+00:00:31,820 --> 00:00:33,820
+in non-gray atmospheres
+
+10
+00:00:33,820 --> 00:00:35,820
+and polarization of light in Jupiter's upper atmosphere
+
+11
+00:00:35,820 --> 00:00:37,820
+are the number of people who'd fit in a bus shelter.
+
+12
+00:00:37,820 --> 00:00:39,820
+So I'm not going to talk about that.
+
+13
+00:00:39,820 --> 00:00:41,820
+(Laughter)
+
+14
+00:00:41,820 --> 00:00:43,820
+It would be just as much fun
+
+15
+00:00:43,820 --> 00:00:46,820
+to talk about some stuff that happened in 1986 and 1987,
+
+16
+00:00:46,820 --> 00:00:49,820
+when a computer hacker is breaking into our systems
+
+17
+00:00:49,820 --> 00:00:51,820
+over at Lawrence Berkeley Labs.
+
+18
+00:00:51,820 --> 00:00:53,820
+And I caught the guys,
+
+19
+00:00:53,820 --> 00:00:57,820
+and they turned out to be working for what was then the Soviet KGB,
+
+20
+00:00:57,820 --> 00:00:59,820
+and stealing information and selling it.
+
+21
+00:00:59,820 --> 00:01:03,820
+And I'd love to talk about that -- and it'd be fun --
+
+22
+00:01:03,820 --> 00:01:06,820
+but, 20 years later ...
+
+23
+00:01:06,820 --> 00:01:08,820
+I find computer security, frankly, to be kind of boring.
+
+24
+00:01:08,820 --> 00:01:10,820
+It's tedious.
+
+25
+00:01:10,820 --> 00:01:11,820
+I'm --
+
+26
+00:01:11,820 --> 00:01:14,820
+The first time you do something, it's science.
+
+27
+00:01:15,820 --> 00:01:18,820
+The second time, it's engineering.
+
+28
+00:01:18,820 --> 00:01:21,820
+A third time, it's just being a technician.
+
+29
+00:01:21,820 --> 00:01:24,820
+I'm a scientist. Once I do something, I do something else.
+
+30
+00:01:24,820 --> 00:01:26,820
+So, I'm not going to talk about that.
+
+31
+00:01:26,820 --> 00:01:33,820
+Nor am I going to talk about what I think are obvious statements from my first book,
+
+32
+00:01:33,820 --> 00:01:36,820
+"Silicon Snake Oil," or my second book,
+
+33
+00:01:37,820 --> 00:01:39,820
+nor am I going to talk about
+
+34
+00:01:39,820 --> 00:01:41,820
+why I believe computers don't belong in schools.
+
+35
+00:01:42,820 --> 00:01:46,820
+I feel that there's a massive and bizarre idea going around
+
+36
+00:01:46,820 --> 00:01:50,820
+that we have to bring more computers into schools.
+
+37
+00:01:50,820 --> 00:01:52,820
+My idea is: no! No!
+
+38
+00:01:52,820 --> 00:01:56,820
+Get them out of schools, and keep them out of schools.
+
+39
+00:01:56,820 --> 00:01:58,820
+And I'd love to talk about this,
+
+40
+00:01:58,820 --> 00:02:03,820
+but I think the argument is so obvious to anyone who's hung around a fourth grade classroom
+
+41
+00:02:03,820 --> 00:02:07,820
+that it doesn't need much talking about --
+
+42
+00:02:07,820 --> 00:02:09,820
+but I guess I may be very wrong about that,
+
+43
+00:02:09,820 --> 00:02:10,820
+and everything else that I've said.
+
+44
+00:02:10,820 --> 00:02:12,820
+So don't go back and read my dissertation.
+
+45
+00:02:12,820 --> 00:02:14,820
+It probably has lies in it as well.
+
+46
+00:02:14,820 --> 00:02:18,820
+Having said that, I outlined my talk about five minutes ago.
+
+47
+00:02:18,820 --> 00:02:21,820
+(Laughter)
+
+48
+00:02:21,820 --> 00:02:23,820
+And if you look at it over here,
+
+49
+00:02:23,820 --> 00:02:26,820
+the main thing I wrote on my thumb was the future.
+
+50
+00:02:26,820 --> 00:02:29,820
+I'm supposed to talk about the future, yes?
+
+51
+00:02:29,820 --> 00:02:36,820
+Oh, right. And my feeling is, asking me to talk about the future is bizarre,
+
+52
+00:02:36,820 --> 00:02:38,820
+because I've got gray hair,
+
+53
+00:02:38,820 --> 00:02:44,820
+and so, it's kind of silly for me to talk about the future.
+
+54
+00:02:44,820 --> 00:02:48,820
+In fact, I think that if you really want to know what the future's going to be,
+
+55
+00:02:48,820 --> 00:02:50,820
+if you really want to know about the future,
+
+56
+00:02:50,820 --> 00:02:54,820
+don't ask a technologist, a scientist, a physicist.
+
+57
+00:02:54,820 --> 00:02:58,820
+No! Don't ask somebody who's writing code.
+
+58
+00:03:01,820 --> 00:03:06,820
+No, if you want to know what society's going to be like in 20 years,
+
+59
+00:03:06,820 --> 00:03:08,820
+ask a kindergarten teacher.
+
+60
+00:03:08,820 --> 00:03:11,820
+They know.
+
+61
+00:03:11,820 --> 00:03:14,820
+In fact, don't ask just any kindergarten teacher,
+
+62
+00:03:14,820 --> 00:03:16,820
+ask an experienced one.
+
+63
+00:03:16,820 --> 00:03:20,820
+They're the ones who know what society is going to be like in another generation.
+
+64
+00:03:20,820 --> 00:03:22,820
+I don't. Nor, I suspect,
+
+65
+00:03:22,820 --> 00:03:25,820
+do many other people who are talking about what the future will bring.
+
+66
+00:03:25,820 --> 00:03:29,820
+Certainly, all of us can imagine these cool new things
+
+67
+00:03:29,820 --> 00:03:30,820
+that are going to be there.
+
+68
+00:03:30,820 --> 00:03:34,820
+But to me, things aren't the future.
+
+69
+00:03:34,820 --> 00:03:37,820
+What I ask myself is, what's society is going to be like,
+
+70
+00:03:37,820 --> 00:03:43,820
+when the kids today are phenomenally good at text messaging
+
+71
+00:03:43,820 --> 00:03:46,820
+and spend a huge amount of on-screen time,
+
+72
+00:03:46,820 --> 00:03:51,820
+but have never gone bowling together?
+
+73
+00:03:52,820 --> 00:03:55,820
+Change is happening, and the change that is happening
+
+74
+00:03:55,820 --> 00:03:57,820
+is not one that is in software.
+
+75
+00:03:58,820 --> 00:03:59,820
+But that's not what I'm going to talk about.
+
+76
+00:03:59,820 --> 00:04:02,820
+I'd love to talk about it, it'd be fun,
+
+77
+00:04:02,820 --> 00:04:05,820
+but I want to talk about what I'm doing now. What am I doing now?
+
+78
+00:04:05,820 --> 00:04:07,820
+Oh -- the other thing that I think I'd like to talk about
+
+79
+00:04:07,820 --> 00:04:10,820
+is right over here. Right over here.
+
+80
+00:04:11,820 --> 00:04:17,820
+Is that visible? What I'd like to talk about is one-sided things.
+
+81
+00:04:17,820 --> 00:04:19,820
+I would dearly love to talk about
+
+82
+00:04:19,820 --> 00:04:22,820
+things that have one side.
+
+83
+00:04:22,820 --> 00:04:26,820
+Because I love Mobius loops. I not only love Mobius loops,
+
+84
+00:04:26,820 --> 00:04:29,820
+but I'm one of the very few people,
+
+85
+00:04:29,820 --> 00:04:32,820
+if not the only person in the world, that makes Klein bottles.
+
+86
+00:04:32,820 --> 00:04:35,820
+Right away, I hope that all of your eyes glaze over.
+
+87
+00:04:35,820 --> 00:04:38,820
+This is a Klein bottle.
+
+88
+00:04:38,820 --> 00:04:41,820
+For those of you in the audience who know,
+
+89
+00:04:41,820 --> 00:04:43,820
+you roll your eyes and say, yup, I know all about it.
+
+90
+00:04:43,820 --> 00:04:45,820
+It's one sided. It's a bottle whose inside is its outside.
+
+91
+00:04:45,820 --> 00:04:48,820
+It has zero volume. And it's non-orientable.
+
+92
+00:04:48,820 --> 00:04:50,820
+It has wonderful properties.
+
+93
+00:04:50,820 --> 00:04:52,820
+If you take two Mobius loops and sew their common edge together,
+
+94
+00:04:52,820 --> 00:04:55,820
+you get one of these, and I make them out of glass.
+
+95
+00:04:55,820 --> 00:04:57,820
+And I'd love to talk to you about this,
+
+96
+00:04:57,820 --> 00:05:01,820
+but I don't have much in the way of ... things to say because --
+
+97
+00:05:03,820 --> 00:05:05,820
+(Laughter)
+
+98
+00:05:05,820 --> 00:05:06,820
+(Chris Anderson: I've got a cold.)
+
+99
+00:05:06,820 --> 00:05:13,820
+However, the "D" in TED of course stands for design.
+
+100
+00:05:13,820 --> 00:05:15,820
+Just two weeks ago I made --
+
+101
+00:05:15,820 --> 00:05:21,820
+you know, I've been making small, medium and big Klein bottles for the trade.
+
+102
+00:05:21,820 --> 00:05:25,820
+But what I've just made --
+
+103
+00:05:25,820 --> 00:05:28,820
+and I'm delighted to show you, first time in public here.
+
+104
+00:05:34,820 --> 00:05:39,820
+This is a Klein bottle wine bottle,
+
+105
+00:05:39,820 --> 00:05:42,820
+which, although in four dimensions
+
+106
+00:05:42,820 --> 00:05:45,820
+it shouldn't be able to hold any fluid at all,
+
+107
+00:05:45,820 --> 00:05:47,820
+it's perfectly capable of doing so
+
+108
+00:05:47,820 --> 00:05:49,820
+because our universe has only three spatial dimensions.
+
+109
+00:05:49,820 --> 00:05:52,820
+And because our universe is only three spatial dimensions,
+
+110
+00:05:52,820 --> 00:05:54,820
+it can hold fluids.
+
+111
+00:05:55,820 --> 00:06:00,820
+So it's highly -- that one's the cool one.
+
+112
+00:06:00,820 --> 00:06:05,820
+That was a month of my life.
+
+113
+00:06:05,820 --> 00:06:09,820
+But although I would love to talk about topology with you, I'm not going to.
+
+114
+00:06:10,820 --> 00:06:16,820
+(Laughter)
+
+115
+00:06:16,820 --> 00:06:21,820
+Instead, I'm going to mention my mom,
+
+116
+00:06:21,820 --> 00:06:24,820
+who passed away last summer.
+
+117
+00:06:24,820 --> 00:06:27,820
+Had collected photographs of me, as mothers will do.
+
+118
+00:06:27,820 --> 00:06:29,820
+Could somebody put this guy up?
+
+119
+00:06:29,820 --> 00:06:33,820
+And I looked over her album
+
+120
+00:06:33,820 --> 00:06:36,820
+and she had collected a picture of me, standing --
+
+121
+00:06:36,820 --> 00:06:40,820
+well, sitting -- in 1969, in front of a bunch of dials.
+
+122
+00:06:41,820 --> 00:06:44,820
+And I looked at it, and said, oh my god,
+
+123
+00:06:44,820 --> 00:06:46,820
+that was me, when I was working at the electronic music studio!
+
+124
+00:06:46,820 --> 00:06:49,820
+As a technician, repairing and maintaining
+
+125
+00:06:50,820 --> 00:06:54,820
+the electronic music studio at SUNY Buffalo. And wow!
+
+126
+00:06:54,820 --> 00:06:59,820
+Way back machine. And I said to myself, oh yeah!
+
+127
+00:07:00,820 --> 00:07:02,820
+And it sent me back.
+
+128
+00:07:04,820 --> 00:07:11,820
+Soon after that, I found in another picture that she had, a picture of me.
+
+129
+00:07:12,820 --> 00:07:16,820
+This guy over here of course is me.
+
+130
+00:07:16,820 --> 00:07:18,820
+This man is Robert Moog,
+
+131
+00:07:18,820 --> 00:07:20,820
+the inventor of the Moog synthesizer,
+
+132
+00:07:20,820 --> 00:07:24,820
+who passed away this past August.
+
+133
+00:07:25,820 --> 00:07:30,820
+Robert Moog was a generous, kind person, extraordinarily competent engineer.
+
+134
+00:07:30,820 --> 00:07:34,820
+A musician who took time from his life to teach me,
+
+135
+00:07:36,820 --> 00:07:39,820
+a sophomore, a freshman at SUNY Buffalo.
+
+136
+00:07:39,820 --> 00:07:44,820
+He'd come up from Trumansburg to teach me
+
+137
+00:07:44,820 --> 00:07:48,820
+not just about the Moog synthesizer, but we'd be sitting there --
+
+138
+00:07:48,820 --> 00:07:51,820
+I'm studying physics at the time. This is 1969, 70, 71.
+
+139
+00:07:51,820 --> 00:07:53,820
+We're studying physics, I'm studying physics,
+
+140
+00:07:53,820 --> 00:07:55,820
+and he's saying, "That's a good thing to do.
+
+141
+00:07:55,820 --> 00:07:57,820
+Don't get caught up in electronic music if you're doing physics."
+
+142
+00:07:57,820 --> 00:08:00,820
+Mentoring me. He'd come up and
+
+143
+00:08:00,820 --> 00:08:04,820
+spend hours and hours with me.
+
+144
+00:08:04,820 --> 00:08:07,820
+He wrote a letter of recommendation for me to get into graduate school.
+
+145
+00:08:07,820 --> 00:08:09,820
+In the background, my bicycle.
+
+146
+00:08:09,820 --> 00:08:12,820
+I realize that this picture was taken at a friend's living room.
+
+147
+00:08:12,820 --> 00:08:15,820
+Bob Moog came by and hauled a whole pile of equipment
+
+148
+00:08:15,820 --> 00:08:17,820
+to show Greg Flint and I things about this.
+
+149
+00:08:17,820 --> 00:08:19,820
+We sat around talking about Fourier transforms,
+
+150
+00:08:19,820 --> 00:08:22,820
+Bessel functions, modulation transfer functions,
+
+151
+00:08:22,820 --> 00:08:25,820
+stuff like this.
+
+152
+00:08:27,820 --> 00:08:30,820
+Bob's passing this past summer has been a loss to all of us.
+
+153
+00:08:30,820 --> 00:08:34,820
+Anyone who's a musician has been profoundly influenced by Robert Moog.
+
+154
+00:08:35,820 --> 00:08:37,820
+(Applause)
+
+155
+00:08:37,820 --> 00:08:42,820
+And I'll just say what I'm about to do. What I'm about to do --
+
+156
+00:08:42,820 --> 00:08:46,820
+I hope you can recognize that there's a distorted sine wave,
+
+157
+00:08:46,820 --> 00:08:50,820
+almost a triangular wave upon this Hewlett-Packard oscilloscope.
+
+158
+00:08:52,820 --> 00:08:56,820
+Oh, cool. I can get to this place over here, right?
+
+159
+00:08:57,820 --> 00:08:59,820
+Kids. Kids is what I'm going to talk about -- is that okay?
+
+160
+00:08:59,820 --> 00:09:03,820
+It says kids over here, that's what I'd like to talk about.
+
+161
+00:09:03,820 --> 00:09:07,820
+I've decided that, for me at least,
+
+162
+00:09:07,820 --> 00:09:11,820
+I don't have a big enough head.
+
+163
+00:09:12,820 --> 00:09:15,820
+So I think locally and I act locally.
+
+164
+00:09:15,820 --> 00:09:19,820
+I feel that the best way I can help out anything is to help out very, very locally.
+
+165
+00:09:19,820 --> 00:09:24,820
+So Ph.D. this, and degree there, and the yadda yadda.
+
+166
+00:09:24,820 --> 00:09:28,820
+I was talking about this stuff to
+
+167
+00:09:28,820 --> 00:09:30,820
+some schoolteachers about a year ago.
+
+168
+00:09:30,820 --> 00:09:32,820
+And one of them, several of them would come up to me and say,
+
+169
+00:09:32,820 --> 00:09:34,820
+"Well, how come you ain't teaching?"
+
+170
+00:09:34,820 --> 00:09:35,820
+And I said, "Well, I've taught graduate --
+
+171
+00:09:35,820 --> 00:09:38,820
+I've had graduate students, I've taught undergraduate classes."
+
+172
+00:09:38,820 --> 00:09:40,820
+No, they said, "If you're so into kids and all this stuff,
+
+173
+00:09:40,820 --> 00:09:43,820
+how come you ain't over here on the front lines?
+
+174
+00:09:43,820 --> 00:09:47,820
+Put your money where you mouth is."
+
+175
+00:09:47,820 --> 00:09:53,820
+Is true. Is true. I teach eighth-grade science four days a week.
+
+176
+00:09:53,820 --> 00:09:55,820
+Not just showing up every now and then.
+
+177
+00:09:55,820 --> 00:09:59,820
+No, no, no, no, no. I take attendance.
+
+178
+00:09:59,820 --> 00:10:02,820
+I take lunch hour. (Applause)
+
+179
+00:10:02,820 --> 00:10:05,820
+This is not -- no, no, no, this is not claps.
+
+180
+00:10:05,820 --> 00:10:09,820
+I strongly suggest that this is a good thing for each of you to do.
+
+181
+00:10:09,820 --> 00:10:11,820
+Not just show up to class every now and then.
+
+182
+00:10:11,820 --> 00:10:15,820
+Teach a solid week. Okay, I'm teaching three-quarters time, but good enough.
+
+183
+00:10:15,820 --> 00:10:17,820
+One of the things that I've done for my science students
+
+184
+00:10:17,820 --> 00:10:20,820
+is to tell them, "Look, I'm going to teach you college-level physics.
+
+185
+00:10:20,820 --> 00:10:22,820
+No calculus, I'll cut out that.
+
+186
+00:10:22,820 --> 00:10:24,820
+You won't need to know trig.
+
+187
+00:10:24,820 --> 00:10:27,820
+But you will need to know eighth-grade algebra,
+
+188
+00:10:27,820 --> 00:10:29,820
+and we're going to do serious experiments.
+
+189
+00:10:29,820 --> 00:10:32,820
+None of this open-to-chapter-seven-and-do-all-the-odd-problem-sets.
+
+190
+00:10:32,820 --> 00:10:34,820
+We're going to be doing genuine physics."
+
+191
+00:10:35,820 --> 00:10:37,820
+And that's one of the things I thought I'd do right now.
+
+192
+00:10:37,820 --> 00:10:40,820
+(High-pitched tone)
+
+193
+00:10:40,820 --> 00:10:42,820
+Oh, before I even turn that on,
+
+194
+00:10:42,820 --> 00:10:46,820
+one of the things that we did about three weeks ago in my class --
+
+195
+00:10:46,820 --> 00:10:48,820
+this is through the lens, and one of the things we used a lens for
+
+196
+00:10:48,820 --> 00:10:50,820
+was to measure the speed of light.
+
+197
+00:10:50,820 --> 00:10:53,820
+My students in El Cerrito -- with my help, of course,
+
+198
+00:10:53,820 --> 00:10:56,820
+and with the help of a very beat up oscilloscope --
+
+199
+00:10:56,820 --> 00:10:57,820
+measured the speed of light.
+
+200
+00:10:57,820 --> 00:11:02,820
+We were off by 25 percent. How many eighth graders do you know of
+
+201
+00:11:02,820 --> 00:11:04,820
+who have measured the speed of light?
+
+202
+00:11:04,820 --> 00:11:07,820
+In addition to that, we've measured the speed of sound.
+
+203
+00:11:07,820 --> 00:11:09,820
+I'd love to measure the speed of light here.
+
+204
+00:11:09,820 --> 00:11:11,820
+I was all set to do it and I was thinking, "Aw man,"
+
+205
+00:11:11,820 --> 00:11:13,820
+I was just going to impose upon the powers that be,
+
+206
+00:11:14,820 --> 00:11:15,820
+and measure the speed of light.
+
+207
+00:11:15,820 --> 00:11:19,820
+And I'm all set to do it. I'm all set to do it,
+
+208
+00:11:19,820 --> 00:11:23,820
+but then it turns out that to set up here, you have like 10 minutes to set up!
+
+209
+00:11:23,820 --> 00:11:25,820
+And there's no time to do it.
+
+210
+00:11:25,820 --> 00:11:27,820
+So, next time, maybe, I'll measure the speed of light!
+
+211
+00:11:27,820 --> 00:11:29,820
+But meanwhile, let's measure the speed of sound!
+
+212
+00:11:29,820 --> 00:11:31,820
+Well, the obvious way to measure the speed of sound
+
+213
+00:11:31,820 --> 00:11:34,820
+is to bounce sound off something and look at the echo.
+
+214
+00:11:34,820 --> 00:11:39,820
+But, probably -- one of my students, Ariel [unclear], said,
+
+215
+00:11:39,820 --> 00:11:42,820
+"Could we measure the speed of light using the wave equation?"
+
+216
+00:11:42,820 --> 00:11:44,820
+And all of you know the wave equation is
+
+217
+00:11:44,820 --> 00:11:50,820
+the frequency times the wavelength of any wave ...
+
+218
+00:11:50,820 --> 00:11:53,820
+is a constant. When the frequency goes up,
+
+219
+00:11:53,820 --> 00:11:56,820
+the wavelength comes down. Wavelength goes up,
+
+220
+00:11:56,820 --> 00:12:00,820
+frequency goes down. So, if we have a wave here --
+
+221
+00:12:01,820 --> 00:12:05,820
+over here, that's what's interesting --
+
+222
+00:12:05,820 --> 00:12:08,820
+as the pitch goes up, things get closer,
+
+223
+00:12:08,820 --> 00:12:10,820
+pitch goes down, things stretch out.
+
+224
+00:12:12,820 --> 00:12:14,820
+Right? This is simple physics.
+
+225
+00:12:14,820 --> 00:12:17,820
+All of you know this from eighth grade, remember?
+
+226
+00:12:17,820 --> 00:12:21,820
+What they didn't tell you in physics -- in eighth-grade physics --
+
+227
+00:12:21,820 --> 00:12:24,820
+but they should have, and I wish they had,
+
+228
+00:12:24,820 --> 00:12:28,820
+was that if you multiply the frequency times the wavelength of sound
+
+229
+00:12:28,820 --> 00:12:32,820
+or light, you get a constant.
+
+230
+00:12:32,820 --> 00:12:34,820
+And that constant is the speed of sound.
+
+231
+00:12:35,820 --> 00:12:38,820
+So, in order to measure the speed of sound,
+
+232
+00:12:38,820 --> 00:12:42,820
+all I've got to do is know its frequency. Well, that's easy.
+
+233
+00:12:42,820 --> 00:12:44,820
+I've got a frequency counter right here.
+
+234
+00:12:44,820 --> 00:12:49,820
+Set it up to around A, above A, above A. There's an A, more or less.
+
+235
+00:12:49,820 --> 00:12:53,820
+Now, so I know the frequency.
+
+236
+00:12:54,820 --> 00:12:58,820
+It's 1.76 kilohertz. I measure its wavelength.
+
+237
+00:12:59,820 --> 00:13:02,820
+All I need now is to flip on another beam,
+
+238
+00:13:02,820 --> 00:13:05,820
+and the bottom beam is me talking, right?
+
+239
+00:13:05,820 --> 00:13:09,820
+So anytime I talk, you'd see it on the screen.
+
+240
+00:13:10,820 --> 00:13:14,820
+I'll put it over here, and as I move this away from the source,
+
+241
+00:13:14,820 --> 00:13:18,820
+you'll notice the spiral.
+
+242
+00:13:19,820 --> 00:13:24,820
+The slinky moves. We're going through different nodes of the wave,
+
+243
+00:13:24,820 --> 00:13:26,820
+coming out this way.
+
+244
+00:13:26,820 --> 00:13:28,820
+Those of you who are physicists, I hear you rolling your eyes,
+
+245
+00:13:28,820 --> 00:13:30,820
+but bear with me. (Laughter)
+
+246
+00:13:30,820 --> 00:13:33,820
+To measure the wavelength,
+
+247
+00:13:33,820 --> 00:13:38,820
+all I need to do is measure the distance from here --
+
+248
+00:13:39,820 --> 00:13:41,820
+one full wave -- over to here.
+
+249
+00:13:41,820 --> 00:13:44,820
+From here to here is the wavelength of sound.
+
+250
+00:13:44,820 --> 00:13:51,820
+So, I'll put a measuring tape here, measuring tape here, move it back over to here.
+
+251
+00:13:52,820 --> 00:13:56,820
+I've moved the microphone 20 centimeters.
+
+252
+00:13:56,820 --> 00:14:01,820
+0.2 meters from here, back to here, 20 centimeters.
+
+253
+00:14:03,820 --> 00:14:08,820
+OK, let's go back to Mr. Elmo.
+
+254
+00:14:09,820 --> 00:14:15,820
+And we'll say the frequency is 1.76 kilohertz, or 1760.
+
+255
+00:14:16,820 --> 00:14:20,820
+The wavelength was 0.2 meters.
+
+256
+00:14:20,820 --> 00:14:24,820
+Let's figure out what this is.
+
+257
+00:14:24,820 --> 00:14:31,820
+(Laughter) (Applause)
+
+258
+00:14:32,820 --> 00:14:39,820
+1.76 times 0.2 over here is 352 meters per second.
+
+259
+00:14:39,820 --> 00:14:45,820
+If you look it up in the book, it's really 343.
+
+260
+00:14:45,820 --> 00:14:47,820
+But, here with kludgy material, and lousy drink --
+
+261
+00:14:47,820 --> 00:14:51,820
+we've been able to measure the speed of sound to --
+
+262
+00:14:52,820 --> 00:14:53,820
+not bad. Pretty good.
+
+263
+00:14:54,820 --> 00:14:58,820
+All of which comes to what I wanted to say.
+
+264
+00:14:59,820 --> 00:15:04,820
+Go back to this picture of me a million years ago.
+
+265
+00:15:04,820 --> 00:15:09,820
+It was 1971, the Vietnam War was going on,
+
+266
+00:15:09,820 --> 00:15:12,820
+and I'm like, "Oh my God!"
+
+267
+00:15:12,820 --> 00:15:15,820
+I'm studying physics: Landau, Lipschitz, Resnick and Halliday.
+
+268
+00:15:15,820 --> 00:15:17,820
+I'm going home for a midterm. A riot's going on on campus.
+
+269
+00:15:17,820 --> 00:15:26,820
+There's a riot! Hey, Elmo's done: off.
+
+270
+00:15:26,820 --> 00:15:28,820
+There's a riot going on on campus,
+
+271
+00:15:28,820 --> 00:15:31,820
+and the police are chasing me, right?
+
+272
+00:15:31,820 --> 00:15:34,820
+I'm walking across campus. Cop comes and looks at me and says,
+
+273
+00:15:34,820 --> 00:15:36,820
+"You! You're a student."
+
+274
+00:15:36,820 --> 00:15:38,820
+Pulls out a gun. Goes boom!
+
+275
+00:15:38,820 --> 00:15:42,820
+And a tear gas canister the size of a Pepsi can goes by my head. Whoosh!
+
+276
+00:15:42,820 --> 00:15:45,820
+I get a breath of tear gas and I can't breathe.
+
+277
+00:15:45,820 --> 00:15:47,820
+This cop comes after me with a rifle.
+
+278
+00:15:47,820 --> 00:15:49,820
+He wants to clunk me over the head!
+
+279
+00:15:49,820 --> 00:15:52,820
+I'm saying, "I got to clear out of here!"
+
+280
+00:15:52,820 --> 00:15:57,820
+I go running across campus quick as I can. I duck into Hayes Hall.
+
+281
+00:15:58,820 --> 00:16:00,820
+It's one of these bell-tower buildings.
+
+282
+00:16:00,820 --> 00:16:01,820
+The cop's chasing me.
+
+283
+00:16:02,820 --> 00:16:04,820
+Chasing me up the first floor, second floor, third floor.
+
+284
+00:16:04,820 --> 00:16:05,820
+Chases me into this room.
+
+285
+00:16:05,820 --> 00:16:07,820
+The entranceway to the bell tower.
+
+286
+00:16:07,820 --> 00:16:09,820
+I slam the door behind me, climb up,
+
+287
+00:16:09,820 --> 00:16:11,820
+go past this place where I see a pendulum ticking.
+
+288
+00:16:11,820 --> 00:16:13,820
+And I'm thinking, "Oh yeah,
+
+289
+00:16:13,820 --> 00:16:15,820
+the square root of the length is proportional to its period." (Laughter)
+
+290
+00:16:16,820 --> 00:16:18,820
+I keep climbing up, go back.
+
+291
+00:16:18,820 --> 00:16:20,820
+I go to a place where a dowel splits off.
+
+292
+00:16:20,820 --> 00:16:21,820
+There's a clock, clock, clock, clock.
+
+293
+00:16:21,820 --> 00:16:23,820
+The time's going backwards because I'm inside of it.
+
+294
+00:16:23,820 --> 00:16:27,820
+I'm thinking of Lorenz contractions and Einsteinian relativity.
+
+295
+00:16:27,820 --> 00:16:30,820
+I climb up, and there's this place, way in the back,
+
+296
+00:16:30,820 --> 00:16:32,820
+that you climb up this wooden ladder.
+
+297
+00:16:32,820 --> 00:16:34,820
+I pop up the top, and there's a cupola.
+
+298
+00:16:34,820 --> 00:16:36,820
+A dome, one of these ten-foot domes.
+
+299
+00:16:36,820 --> 00:16:39,820
+I'm looking out and I'm seeing the cops bashing students' heads,
+
+300
+00:16:39,820 --> 00:16:41,820
+shooting tear gas, and watching students throwing bricks.
+
+301
+00:16:41,820 --> 00:16:44,820
+And I'm asking, "What am I doing here? Why am I here?"
+
+302
+00:16:44,820 --> 00:16:47,820
+Then I remember what my English teacher in high school said.
+
+303
+00:16:47,820 --> 00:16:51,820
+Namely, that when they cast bells,
+
+304
+00:16:51,820 --> 00:16:54,820
+they write inscriptions on them.
+
+305
+00:16:54,820 --> 00:16:58,820
+So, I wipe the pigeon manure off one of the bells, and I look at it.
+
+306
+00:16:58,820 --> 00:16:59,820
+I'm asking myself, "Why am I here?"
+
+307
+00:17:01,820 --> 00:17:05,820
+So, at this time, I'd like to tell you the words inscribed
+
+308
+00:17:05,820 --> 00:17:09,820
+upon the Hayes Hall tower bells:
+
+309
+00:17:09,820 --> 00:17:14,820
+"All truth is one.
+
+310
+00:17:14,820 --> 00:17:20,820
+In this light, may science and religion endeavor here
+
+311
+00:17:20,820 --> 00:17:24,820
+for the steady evolution of mankind, from darkness to light,
+
+312
+00:17:24,820 --> 00:17:29,820
+from narrowness to broad-mindedness, from prejudice to tolerance.
+
+313
+00:17:32,820 --> 00:17:39,820
+It is the voice of life, which calls us to come and learn."
+
+314
+00:17:40,820 --> 00:17:42,820
+Thank you very much.
+
